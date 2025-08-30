@@ -1,8 +1,10 @@
-xmotion=300
-kabab_price=75
-if xmotion<=300 :
-    print("Bangladesher dami bike kinmu")
-elif kabab_price <100:
-    print('Kabab khamu ')
+biryani_price=400
+kabab_price=55
+
+if biryani_price <150:
+   print("sultane khamu fokir sala")
+elif kabab_price<50:
+   print("kabab and nan aram kore khan")
 else:
-    print('votvoti kinmu')
+  print("butter bon khamu cha diya")
+  

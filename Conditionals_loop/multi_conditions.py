@@ -1,5 +1,25 @@
-exam='Bcs'
+exam="BCS"
 passed=True
-if exam=='Bank' and passed==True:
-    print("Tor biye to paka")
-else: print("hobe na")
+second="Bank"
+
+# if exam=="BCS" or passed==True:
+#   print("WOW tor bike and car pakka")
+#   print("Congrats Mama")
+# else:
+#   print("tor hobe na bike and car")
+
+if exam=="BCS" or second=="Bank":
+  print("tor life mama set hoye gese")
+else:
+  print("tui to bekar beta")
+  
+
+""" if exam=="BCS":
+  print('Bike and Car gotten')
+
+if passed==True:
+  print("congrats")
+else:
+  print("try next time again")
+
+ """
