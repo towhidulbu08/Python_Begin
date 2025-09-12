@@ -7,5 +7,6 @@ for i in range(1,5):
  time.sleep(3)
  pyautogui.write("I enjoy python!",interval=.25)  
  pyautogui.press('enter')
+ 
 
 

@@ -4,11 +4,11 @@ balance=580
 def total_cost(price,quantity):
   global balance
   cost=price*quantity
-  # balance=100
+  # # balance=100
   # remaining=balance-cost
   # balance=remaining
   balance=balance-cost
-  # print(remaining)
+  print(balance)
   return cost
 
 print(f"balance: outside before: {balance}")
